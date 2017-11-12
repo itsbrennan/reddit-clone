@@ -1,0 +1,22 @@
+{
+    "a":{
+            "title": "This is a new moose",
+            "comments": 508,
+            "submissionTime": "2000-01-01"
+    },
+    "b":{  
+            "title": "A dog laughing",
+            "comments": 523,
+            "submissionTime": "2000-01-01"
+    },
+    "c":{     
+            "title": "Hey look at this cat pic!", 
+            "comments": 8, 
+            "submissionTime": "2000-01-01"
+    },
+    "d":{       
+            "title": "You wont believe this!", 
+            "comments": 85, 
+            "submissionTime": "2000-01-01"
+    }
+}
